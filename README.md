@@ -18,7 +18,7 @@ Improvements welcome via pull request.
 
 **To do:**
  - [ ] build yaml document structure for TOC
- - [ ] deep linking https://github.com/jasonphillips/laudato-si/issues/1
+ - [x] deep linking https://github.com/jasonphillips/laudato-si/issues/1
 
 **Welcome improvements:**
  - alternate languages
